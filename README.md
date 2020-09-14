@@ -1,3 +1,3 @@
 # FindFish
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke.mybinder.org/user/andrewn2000-findfish-rtfim94r/voila/render/Fish_classifier.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewn2000/FindFish/master?urlpath=%2Fvoila%2Frender%2FFish_classifier.ipynb)
